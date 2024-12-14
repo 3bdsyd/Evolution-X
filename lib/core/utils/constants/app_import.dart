@@ -1,0 +1,10 @@
+export 'package:evolution_x/core/router/app_router.dart';
+export 'package:evolution_x/core/router/route_names.dart';
+export 'package:evolution_x/core/services/app_services.dart';
+export 'package:flutter/material.dart';
+export 'package:get/get.dart';
+export 'package:evolution_x/core/gen/colors.gen.dart';
+export 'package:evolution_x/core/gen/fonts.gen.dart';
+export 'package:evolution_x/core/gen/assets.gen.dart';
+export 'package:evolution_x/core/utils/text_styles/text_styles.dart';
+export 'package:evolution_x/shared/custom_appbar.dart';
